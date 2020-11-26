@@ -1,16 +1,12 @@
-### Hi there 👋
+ Hi there🙂
 
-<!--
-**ifeoluwajoshua/ifeoluwajoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on an investment management software 
+- 🌱 I’m currently learning Asp.net core and Golang 
+- 🏋🏼 Skills: Flutter/Dart/Ui/Ux/C#/Content Creation
+- 👯 I’m looking to collaborate on Flutter projects(Software development in general)
+- 🤔 I’m looking for help with Asp.net core and Golang(a mentor,someone to guide me)
+- 💬 Ask me about Flutter,Intoverts lifestyle*
+- 📫 How to reach me: Twitter @devjoart[https://twitter.com/devjoart?s=09]
+- 😄 Pronouns: He
+- ⚡ Fun fact: I learn more by building
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
