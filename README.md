@@ -1,7 +1,7 @@
  Hi there🙂
 
-- 🔭 I’m currently working on an investment and church management mobile application
-- 🌱 I’m currently learning python and deep programming 
+- 🔭 I’m currently working on Agritech mobile applications and an Activity Manager
+- 🌱 I’m currently learning python and Django 
 - 🏋🏼 Skills: Flutter/Dart/Ui/Ux/C# 
 - 👯 I’m looking to collaborate on Flutter projects(Software development in general)
 - 🤔 I’m looking for help with Asp.net core and Golang(a mentor,someone to guide me)
