@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Agritech mobile applications and an Activity Manager
 - 🌱 I’m currently learning python and Django 
-- 🏋🏼 Skills: Flutter/Dart/Ui/Ux/C# 
+- 🏋🏼 Skills: Flutter/Dart/Ui/Ux
 - 👯 I’m looking to collaborate on Flutter projects(Software development in general)
 - 🤔 I’m looking for help with Asp.net core(a mentor,someone to guide me)
 - 💬 Ask me about Flutter
