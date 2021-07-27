@@ -9,5 +9,6 @@
 - 📫 How to reach me: Twitter @devjoart[https://twitter.com/devjoart?s=09]
 - 😄 Pronouns: He/Him
 
-[![Joart GitHub stats](https://github-readme-stats.vercel.app/api?zjoart=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Zjoart GitHub stats](https://github-readme-stats.vercel.app/api?username=zjoart)](https://github.com/anuraghazra/github-readme-stats)
+
 
