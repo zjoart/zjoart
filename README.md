@@ -9,6 +9,8 @@
 - 📫 How to reach me: Twitter @devjoart[https://twitter.com/devjoart?s=09]
 - 😄 Pronouns: He/Him
 
-[![Zjoart GitHub stats](https://github-readme-stats.vercel.app/api?username=zjoart)](https://github.com/anuraghazra/github-readme-stats)
+[![Zjoart GitHub stats](https://github-readme-stats.vercel.app/api?username=zjoart&theme=cobalt&show_icons=true&&line_height=40)]
+![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zjoart&theme=cobalt&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/zjoart)  
 
 
