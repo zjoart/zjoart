@@ -1,6 +1,6 @@
  Hi there🙂
 
-- 🔭 I’m currently working on flutter applicaions and an Activity Manager
+- 🔭 I’m currently working on flutter applications and an Activity Manager
 - 🌱 I’m currently learning Golang
 - 🏋🏼 Skills: Flutter/Dart/Ui/Ux
 - 👯 I’m looking to collaborate on Flutter projects(Software development in general)
