@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Flutter projects(Software development in general)
 - 🤔 I’m looking for help with Golang(a mentor,someone to guide me)
 - 💬 Ask me about Flutter
-- 📫 How to reach me: Twitter @devjoart[https://twitter.com/devjoart?s=09]
+- 📫 How to reach me: Twitter [@devjoart](https://twitter.com/devjoart?s=09)
 - 😄 Pronouns: He/Him
 
 [![Zjoart GitHub stats](https://github-readme-stats.vercel.app/api?username=zjoart&theme=cobalt&show_icons=true&&line_height=40)]
