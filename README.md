@@ -1,10 +1,10 @@
  Hi there🙂
 
 - 🔭 I’m currently working on flutter applications and dotnet core applications
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Go
 - 🏋🏼 Skills: Flutter/Dart/Ui/Ux
 - 👯 I’m looking to collaborate on Flutter projects(Software development in general)
-- 🤔 I’m looking for help with Golang(a mentor,someone to guide me)
+- 🤔 I’m looking for help with Go(a mentor,someone to guide me)
 - 💬 Ask me about Flutter
 - 📫 How to reach me: Twitter [@devjoart](https://twitter.com/devjoart?s=09)
 - 😄 Pronouns: He/Him
