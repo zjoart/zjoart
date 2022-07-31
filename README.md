@@ -1,7 +1,7 @@
  Hi there🙂
 
 - 🔭 I’m currently working on flutter applications and dotnet core applications
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently building Payments and Subscriptions Applications
 - 🏋🏼 Skills: Flutter/Dart/Ui/Ux
 - 👯 I’m looking to collaborate on Flutter projects(Software development in general)
 - 🤔 I’m looking for help with Go(a mentor,someone to guide me)
