@@ -1,6 +1,6 @@
  Hi there🙂
 
-- 🔭 I’m currently working on flutter applications and dotnet core applications
+- 🔭 I’m currently learning Software Engineering with @Alx
 - 🌱 I’m currently building Banking, Payments and Subscriptions Applications
 - 🏋🏼 Skills: Flutter/Dart/c#/.Net/Ui/Ux
 - 👯 I’m looking to collaborate on Flutter projects(Software development in general)
