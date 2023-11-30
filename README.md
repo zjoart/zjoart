@@ -1,7 +1,7 @@
  Hi there🙂
 
-- 🔭 I’m currently learning Software Engineering with @Alx
-- 🌱 I’m currently building Banking, Payments and Subscriptions Applications
+
+- 🌱 I’m currently building Banking, Payments, Subscriptions, Logistics and E-commerce Applications
 - 🏋🏼 Skills: Flutter/Dart/c#/.Net/Ui/Ux
 - 👯 I’m looking to collaborate on Flutter projects(Software development in general)
 - 🤔 I’m looking for help with Go(a mentor,someone to guide me)
