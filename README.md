@@ -1,7 +1,7 @@
  Hi there🙂
 
 
-- 🌱 I’m currently building Banking, Payments, Subscriptions, Logistics and E-commerce Applications
+- 🌱 I’m currently building Banking, Payments, Subscriptions, Logistics and E-commerce Applications for Business(B2B) and Customer(B2C)
 - 🏋🏼 Skills: Flutter/Dart/c#/.Net/Ui/Ux
 - 👯 I’m looking to collaborate on Flutter projects(Software development in general)
 - 🤔 I’m looking for help with Go(a mentor,someone to guide me)
