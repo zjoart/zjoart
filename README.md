@@ -1,16 +1,23 @@
- Hi there🙂
+## Hi there 🙂 I'm Zjoart!
 
+🚀 I'm a software engineer focused on building robust applications across Banking, Payments, Subscriptions, Logistics, and E-commerce — both for Business (B2B) and Consumer (B2C) markets.
 
-- 🌱 I’m currently building Banking, Payments, Subscriptions, Logistics and E-commerce Applications for Business(B2B) and Customer(B2C)
-- 🏋🏼 Skills: Flutter/Dart/c#/.Net/Ui/Ux
-- 👯 I’m looking to collaborate on Flutter projects(Software development in general)
-- 🤔 I’m looking for help with Go(a mentor,someone to guide me)
-- 💬 Ask me about Flutter
-- 📫 How to reach me: Twitter [@zjoart](https://twitter.com/devjoart?s=09)
+### 🛠️ What I'm Working On
+- 🌱 Currently building full-stack systems using **Go**, **Flutter/Dart**, and **.NET/C#**
+- 💻 Passionate about software architecture, clean UI/UX, and solving real-world problems with code
+
+### 🤝 Let's Connect
+- 👯 Looking to collaborate on **Flutter** or **Go** projects
+- 🤔 Seeking mentorship and guidance in **Go** development
+- 💬 Ask me anything about **Flutter**, UI/UX, or backend systems
+- 📫 Reach out on [Twitter @zjoart](https://twitter.com/devjoart?s=09)
 - 😄 Pronouns: He/Him
 
-[![Zjoart GitHub stats](https://github-readme-stats.vercel.app/api?username=zjoart&theme=cobalt&show_icons=true&&line_height=40)]
-![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zjoart&theme=cobalt&show_icons=true)
-![Profile views](https://gpvc.arturio.dev/zjoart)  
+---
 
+### 📊 GitHub Stats
 
+[![Zjoart GitHub Stats](https://github-readme-stats.vercel.app/api?username=zjoart&theme=cobalt&show_icons=true&line_height=40)](https://github.com/zjoart)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zjoart&theme=cobalt&show_icons=true)](https://github.com/zjoart)
+
+![Profile Views](https://gpvc.arturio.dev/zjoart)
