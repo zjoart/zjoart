@@ -1,6 +1,6 @@
 ## Hi there 🙂 I'm Ayomide!
 
-🚀 I'm a software engineer focused on building robust applications across Banking, Payments, Subscriptions, Logistics, and E-commerce — both for Business (B2B) and Consumer (B2C) markets.
+🚀 I'm a software engineer focused on building robust applications across Expense Management Banking, Payments, Credits, Savings, Subscriptions, Logistics, and E-commerce — both for Business (B2B) and Consumer (B2C) markets.
 
 ### 🛠️ What I'm Working On
 - 🌱 Currently building full-stack systems using **Go**, **Flutter/Dart**, and **.NET/C#**
