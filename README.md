@@ -1,4 +1,4 @@
-## Hi there 🙂 I'm Zjoart!
+## Hi there 🙂 I'm Ayomide!
 
 🚀 I'm a software engineer focused on building robust applications across Banking, Payments, Subscriptions, Logistics, and E-commerce — both for Business (B2B) and Consumer (B2C) markets.
 
