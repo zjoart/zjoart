@@ -9,7 +9,7 @@
 ### 🤝 Let's Connect
 - 👯 Looking to collaborate on **Mobile** or **Go** projects
 - 💬 Ask me anything about **Flutter**, Mobile or Backend Engineering
-- 📫 Reach out on [Twitter @zjoart](https://twitter.com/devjoart?s=09)
+- 📫 Reach out on [Twitter @devjoart](https://twitter.com/devjoart?s=09)
 - 😄 Pronouns: He/Him
 
 ---
