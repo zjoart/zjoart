@@ -4,7 +4,7 @@
 
 ### 🛠️ What I'm Working On
 - 🌱 Currently building full-stack systems using **Go**, **Flutter/Dart**, **Kotlin**, and **Swift** for **B2B** and **B2C** products.  
-- 💻 Passionate about designing **high-performance**, **scalable software** with **clean architecture** and **thoughtful UI/UX** that solve real-world problems.
+- 💻 Passionate about designing **high-performance**, **scalable software** and building clean, user-focused solutions to real-world problems.
 
 ### 🤝 Let's Connect
 - 👯 Looking to collaborate on **Mobile** or **Go** projects
